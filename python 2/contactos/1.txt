@@ -1,0 +1,3 @@
+nombre:1
+telefono:1
+categoria :1

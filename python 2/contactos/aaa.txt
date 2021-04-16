@@ -1,0 +1,3 @@
+nombre:aaa
+telefono:12
+categoria :w
